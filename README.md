@@ -6,3 +6,4 @@ The following are screenshots of how the app looks
 ![Screenshot 2025-04-02 165000](https://github.com/user-attachments/assets/dd7a05d3-8fcf-46c5-a4b9-0e979068afd2)
 One screenshot shows the results when the user inputs the correct details that are expected, and the othe screenshot shows the error the user will receive.
 This is a link to the https://github.com/ST10479225/Assignment-1.git
+This is a link to the video "C:\Users\lab_services_student\Videos\Screen Recordings\assignment1.mp4"
